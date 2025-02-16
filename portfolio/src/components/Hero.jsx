@@ -16,8 +16,16 @@ const Hero = () => {
                     <div className='flex flex-col items-center mt-8 lg:items-start'>
                         <h2 className='bg-gradient-to-r from-stone-300 to-stone-600 bg-clip-text text-transparent text-4xl mb-2 tracking-tighter  lg:text-8xl'>Aditya Verma</h2>
                         <h2 className='bg-gradient-to-r from-stone-300 to-stone-600 bg-clip-text text-transparent text-3xl mb-6 lg:text-4xl '>Full Stack Developer</h2>
-                        <span className='font-medium py-6 tracking-tighter text-lg'>Hi there! I transform ideas into working applications by building both the front and back end of websites. I love creating clean, user-friendly interfaces while also handling the complex server-side logic that powers them. With experience in modern web technologies and a problem-solving mindset, I focus on delivering robust solutions that make a real impact. I'm always excited to take on new challenges and create something amazing together.
-                        Would you like me to adjust this further? I can make it even more concise or emphasize specific aspects of web development.</span>
+                        <span className='font-medium py-6 tracking-tighter text-lg'>Hi there! I 
+                            transform ideas into working applications by building both the front 
+                            and back end of websites. I love creating clean, user-friendly 
+                            interfaces while also handling the complex server-side logic that
+                             powers them. With experience in modern web technologies and a 
+                             problem-solving mindset, I focus on delivering robust solutions that
+                              make a real impact. I'm always excited to take on new challenges and 
+                              create something amazing together.
+                        Would you like me to adjust this further? I can make it even more concise 
+                        or emphasize specific aspects of web development.</span>
                         <a href={resume}
                         download
                         className='bg-white
